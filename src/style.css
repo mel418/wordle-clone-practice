@@ -18,7 +18,7 @@ body {
   margin: 20px auto;
   min-height: 200px; /* Adjust the height as needed */
   /* justify-content: center;  */
-  /* align-items: center;  */
+  align-items: center; 
 }
 
 
